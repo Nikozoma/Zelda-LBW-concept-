@@ -1,0 +1,8 @@
+{
+  "name": "A Link Between Worlds — Proof of Concept",
+  "description": "A top-down 2D action-adventure proof of concept inspired by The Legend of Zelda: A Link Between Worlds, featuring wall-merging mural mechanics, Hyrule and Lorule dimensional fissures, and stamina-powered items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
